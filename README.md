@@ -9,15 +9,6 @@
 
 
 
-Hello, I'm Roshan George! 🌱 I’m currently mastering DSA✨ 💬 Ask me about open-source, AI, web3..(even anything personalXD) -> 📫 How to reach me: roshangeorge2003@gmail.com Lets Connect 🤗
-
-## My Stats 📊
-
-<font size="4" color="green">This text is in green color and has a larger font size.</font>
-
-<font size="3" color="blue">This text is in blue color and has a slightly smaller font size.</font>
-
-<font size="2" color="red">This text is in red color and has an even smaller font size.</font>
 
 
 <!---
