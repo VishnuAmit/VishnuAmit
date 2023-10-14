@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Vishnu Kasilya
+# Hey, I'm Vishnu Kasilya!
+
+ - 👋 Hi, I’m Vishnu Kasilya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- # Roshan George's GitHub Profile
+
 
 Hello, I'm Roshan George! 🌱 I’m currently mastering DSA✨ 💬 Ask me about open-source, AI, web3..(even anything personalXD) -> 📫 How to reach me: roshangeorge2003@gmail.com Lets Connect 🤗
 
