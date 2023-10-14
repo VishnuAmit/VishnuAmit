@@ -1,4 +1,4 @@
-# Hey, I'm Vishnu Kasilya! {#hey-im-vishnu-kasilya}
+# Hey, I'm Vishnu Kasilya! 
 
 
  - 👋 Hi, I’m Vishnu Kasilya
