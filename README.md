@@ -1,4 +1,4 @@
-<font color="blue">Hey, I'm Vishnu Kasilya!</font>
+# Hey, I'm Vishnu Kasilya!
 
 
  - 👋 Hi, I’m Vishnu Kasilya
