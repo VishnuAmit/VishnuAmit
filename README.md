@@ -1,4 +1,4 @@
-Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif))My name is Vishnu Kasilya
+Hi 👋 I am Vishnu Kasilya
 ======================================================================================================================================
 
 Web Developer !
@@ -8,9 +8,9 @@ I am a 3rd year student pursuing B.Tech Computer Science in Artificial Intellige
 
 * 🌍  I'm based in Chennai, India.
 * ✉️  You can contact me at [vishnulakshya2018@gmail.com](mailto:vishnulakshya2018@gmail.com)
-* 🚀  I'm currently working on [strengthening my DSA skills.](http://leetcode.com/VishnuKasilya/)
+* 🚀  I'm currently [strengthening my DSA skills.](http://leetcode.com/VishnuKasilya/)
 * 🧠  I'm learning Blockchain Technology.
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I have a good sense of humor. Dont tell anyone :)
 
 ### Skills
