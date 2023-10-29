@@ -11,7 +11,7 @@ I am a 3rd year student pursuing B.Tech Computer Science in Artificial Intellige
 * 🚀  I'm currently [strengthening my DSA skills.](http://leetcode.com/VishnuKasilya/)
 * 🧠  I'm learning Blockchain Technology.
 * 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I have a good sense of humor. Dont tell anyone :)
+* ⚡  I have some secret powers. Dont tell anyone :)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
