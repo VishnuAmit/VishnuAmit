@@ -6,14 +6,14 @@ Web Developer !
 ![](https://komarev.com/ghpvc/?username=VishnuAmit&color=green)
 
 
-I am a 3rd year student pursuing B.Tech Computer Science in Artificial Intelligence. I am good at learning new things and adapting to it. Some of my strengths include Machine learning, Front end development, Design, etc.
+I am a final-year student pursuing a B.Tech in Computer Science, specializing in Artificial Intelligence. I enjoy developing products using my tech stack to solve real-life issues. I am also eager to learn new technologies and keep myself updated with the latest advancements.
 
 * 🌍  I'm based in Chennai, India.
-* ✉️  You can contact me at [vishnulakshya2018@gmail.com](mailto:vishnulakshya2018@gmail.com)
-* 🚀  I'm currently [strengthening my DSA skills.](http://leetcode.com/VishnuKasilya/)
-* 🧠  I'm learning Blockchain Technology.
+* 🔗  I’m more active on [LinkedIn](https://www.linkedin.com/in/vishnukasilya/). Feel free to connect!
+* 🚀  I recently started competitive programming to improve my problem-solving skills.
+* 🧠  I'm learning the MERN stack with AI integration and would love to explore Spring Boot in the future.
 * 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I have some secret powers. Dont tell anyone :)
+* ⚡ I have a few unique skills that I’m always refining!
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
