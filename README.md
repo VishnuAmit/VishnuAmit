@@ -1,7 +1,7 @@
 Hi 👋 I am Vishnu Kasilya
 ======================================================================================================================================
 
-Web Developer !
+Software Developer !
 ---------------
 ![](https://komarev.com/ghpvc/?username=VishnuAmit&color=green)
 
