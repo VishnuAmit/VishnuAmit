@@ -44,9 +44,11 @@ I am a final-year student pursuing a B.Tech in Computer Science, specializing in
 <p align="left"> <a href="https://www.github.com/VishnuAmit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/VishnuKasilya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Coding Profiles
-<a href="https://www.linkedin.com/in/VishnuKasilya" target="_blank" rel="noreferrer">
-  <img src="leetcode.svg" alt="LinkedIn" width="32" height="32" style="background: transparent;" />
-</a>
+<img src="https://leetcard.jacoblin.cool/VishnuKasilya?ext=contest" alt="LeetCode Profile Card" />
+
+
+
+
 
 ### My Achievements 📛
 [![An image of @vishnuamit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishnuamit)](https://holopin.io/@vishnuamit)
